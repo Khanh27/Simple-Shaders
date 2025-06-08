@@ -1,6 +1,6 @@
 # 🎨 Unity Image Effects: Custom Shaders
 
-This repository contains a collection of custom post-processing shaders written in Unity. Each shader demonstrates a different visual effect using fragment shader techniques and Unity's depth or color buffer.
+This repository contains a collection of custom post-processing shaders written in Unity. Each shader demonstrates a different visual effect using fragment shader techniques and Unity's depth or color buffer. Based on Daniel Ilett's Image Effect series.  
 
 ## 🧪 Shaders Included
 
