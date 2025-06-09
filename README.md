@@ -36,7 +36,15 @@ Uses the **depth buffer** to detect edges in the scene, creating a glowing or ou
 - Based on Sobel Filter to find edges
 - Can be combined with glow effects or colors for a "neon wireframe" look
 
-**Preview:**
-![Neon Preview](Images/Neon-Effect.png)
-
 ---
+
+### Kuwahara Filter 
+
+Applies a stylized, painterly edge-preserving blur that smooths regions while retaining strong edges — ideal for toon shading or artistic rendering effects.
+
+- Evaluates four regions around each pixel, selecting the one with the lowest variance to preserve edges.
+- Produces a soft, abstract visual effect similar to hand-drawn or oil-painted images.
+- Tunable blur radius allows control over smoothing strength and artistic intensity.
+
+**Preview:**
+![Kuwahara Filter Preview](Images/Sepia-Effect.png)
