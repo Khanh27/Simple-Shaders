@@ -13,7 +13,7 @@ Converts the rendered scene into greyscale by calculating **luminance** based on
 - Each pixel's RGB is reduced to a single luminance value and applied uniformly.
 
 **Preview:**
-
+![Greyscale Preview](Images/GreyScale.png)
 
 ---
 
@@ -25,7 +25,7 @@ Applies a vintage **sepia filter** by applying a 3×3 matrix to the original RGB
 Each output color channel is a weighted sum of all three input channels.
 
 **Preview:**
-
+![Sepia Tone Preview](Images/Sepia-Effect.png)
 
 ---
 
@@ -37,6 +37,6 @@ Uses the **depth buffer** to detect edges in the scene, creating a glowing or ou
 - Can be combined with glow effects or colors for a "neon wireframe" look
 
 **Preview:**
-
+![Neon Preview](Images/Neon-Effect.png)
 
 ---
