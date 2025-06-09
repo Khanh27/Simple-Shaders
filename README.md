@@ -47,4 +47,4 @@ Applies a stylized, painterly edge-preserving blur that smooths regions while re
 - Tunable blur radius allows control over smoothing strength and artistic intensity.
 
 **Preview:**
-![Kuwahara Filter Preview](Images/Sepia-Effect.png)
+![Kuwahara Filter Preview](Images/Kuwahara.png)
