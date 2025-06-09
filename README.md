@@ -33,7 +33,7 @@ Each output color channel is a weighted sum of all three input channels.
 
 Uses the **depth buffer** to detect edges in the scene, creating a glowing or outlined silhouette effect. Ideal for stylized visuals or highlighting objects.
 
-- Based on depth discontinuity (difference in depth between neighboring pixels)
+- Based on Sobel Filter to find edges
 - Can be combined with glow effects or colors for a "neon wireframe" look
 
 **Preview:**
