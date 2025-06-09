@@ -36,6 +36,8 @@ Uses the **depth buffer** to detect edges in the scene, creating a glowing or ou
 - Based on Sobel Filter to find edges
 - Can be combined with glow effects or colors for a "neon wireframe" look
 
+**Preview:**
+![Neon Line Shader Preview](Images/Neon-Effect.png)
 ---
 
 ### Kuwahara Filter 
